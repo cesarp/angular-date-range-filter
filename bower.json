@@ -6,7 +6,7 @@
     "César Pérez <cesar.alberto.perez@gmail.com>"
   ],
   "description": "AngularJS date range filter",
-  "main": "src/date-range-filter.js",
+  "main": "src/angular-date-range-filter.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
